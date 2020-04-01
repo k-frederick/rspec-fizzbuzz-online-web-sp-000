@@ -4,11 +4,9 @@
 def fizzbuzz(num)
   if 3
     puts "Fizz"
-  end
   elsif 5
-  puts "Buzz"
-  end
+    puts "Buzz"
   else 15
-  puts "fizzbuzz"
+    puts "Fizzbuzz"
   end
 end
